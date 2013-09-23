@@ -1,0 +1,31 @@
+{
+  "name": "pagespy",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/spy.js",
+  "scripts": {
+    "test": "make check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/SydneyStockholm/pagespy"
+  },
+  "author": "Sydney Stockholm <opensource@sydneystockholm.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "latest",
+    "async": "latest",
+    "debug": "latest"
+  },
+  "devDependencies": {
+    "mocha": "latest",
+    "supervisor": "latest",
+    "jshint": "latest",
+    "istanbul": "latest",
+    "modularity": "latest",
+    "express": "latest"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
