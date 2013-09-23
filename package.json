@@ -2,7 +2,7 @@
   "name": "pagespy",
   "version": "0.1.0",
   "description": "",
-  "main": "lib/spy.js",
+  "main": "index.js",
   "scripts": {
     "test": "make check"
   },
