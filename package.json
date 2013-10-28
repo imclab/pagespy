@@ -13,9 +13,9 @@
   "author": "Sydney Stockholm <opensource@sydneystockholm.com>",
   "license": "MIT",
   "dependencies": {
-    "request": "latest",
-    "async": "latest",
-    "debug": "latest"
+    "request": "*",
+    "async": "*",
+    "debug": "*"
   },
   "devDependencies": {
     "mocha": "latest",
